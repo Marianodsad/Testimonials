@@ -1,0 +1,124 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+main{
+    display:flex;
+    justify-content: center;
+    margin-top: 135px;
+}
+#pf1{
+    display:flex;
+}
+#profile{
+    display:flex;
+}
+#comillas{
+    display:flex;
+    justify-content:end;
+    opacity: 0.5;
+    margin-left: 200px;
+    position: absolute;
+    height: 132px;
+    
+}
+
+#c1{
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    font-family: "Barlow Semi Condensed";
+    color: hsl(0, 0%, 100%);
+    margin-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 620px;
+    font-weight: 500;
+    
+    
+}
+#cuadros1{
+    display:flex;
+    
+
+}
+#all2{
+    display:flex;
+}
+#profiles_images{
+    border-radius: 30px;
+    border: 1px solid white;
+    height: 45px;
+    margin: 20px;
+}
+#c2{
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    font-family: "Barlow Semi Condensed";
+    color: hsl(0, 0%, 100%);
+    padding: 0px 20px;
+    padding-bottom: 20px;
+    width: 260px;
+    font-weight: 500;
+
+}
+#prof1{
+    margin-bottom: -15px;
+    margin-top: 30px;
+}
+#prof2{
+    font-size: 15px;
+    opacity: 0.5;
+    
+}
+#p1{
+    font-size: 25px;
+    margin-top: -0.5px;
+    
+
+}
+#p2{
+    font-size: 15px;
+    opacity: 0.5;
+}
+#pes{
+    margin-left: 10px;
+}
+#cuadros1{
+    height:330px
+}
+
+#dos_cuadro{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    font-family: "Barlow Semi Condensed";
+    color: hsl(219, 29%, 14%);
+    padding: 0px 20px;
+    padding-bottom: 20px;
+    width: 260px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+#profile2{
+    display:flex;
+}
+#tres_cuadro{
+    background-color: hsl(219, 29%, 14%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left:40px;
+    width: 620px;
+    font-weight: 500;
+    font-family: "Barlow Semi Condensed";
+    padding-left: 20px;
+    padding-right:20px;
+}
+#largo{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    font-family: "Barlow Semi Condensed";
+    color: hsl(219, 29%, 14%);
+    width: 260px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
